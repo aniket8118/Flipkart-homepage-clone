@@ -1,0 +1,17 @@
+.flex-all-center{
+    font-family: 'Yaldevi', sans-serif;
+}
+.h2{
+    margin: 15px 15px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 22px
+}
+nav ul {
+    /* height: 9vh; */
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
