@@ -1,0 +1,2 @@
+# Flipkart-homepage-clone
+I have created this flipkart homepage clone using "HTML" and "CSS" . This is my first repository on github . It has some basic "CSS methods" used . It's responsive for the screens with dimensions more than 800*300 , This is beginner friendly project and can be understood by any beginner learner though this was my very first project it does have some inaccuracies. Your valuable suggestions are solicited for improvement.
